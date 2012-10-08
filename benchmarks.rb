@@ -6,6 +6,10 @@ require 'memcache'
 require 'pp'
 
 
+# added by petros
+# and something else
+# after this
+
 #require 'grit'
 require 'lib/grit'
 
@@ -127,3 +131,4 @@ end
 main()
 
 ##pp Grit::GitRuby.cache_client.stats 
+# test line
